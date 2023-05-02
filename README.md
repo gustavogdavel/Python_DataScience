@@ -9,7 +9,7 @@ Este repositório contém minhas anotações e testes relacionados ao livro "Pyt
 O conteúdo deste repositório é organizado em pastas de acordo com os capítulos do livro, cada uma contendo notebooks com anotações e códigos Python com exemplos e testes.
 
 - Capitulos de 1 à 5 não serão conteplados neste repositório por se tratar de conteúdos introdutórios e sobre instalação de programas.
-- Capítulo 6 - Trabalhando com dados reais
+- [Capítulo 6](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo6/Capitulo6.ipynb) - Trabalhando com dados reais
 - Capitulo 7 - Condicionando os dados
 - Capitulo 8 - Modelando dados
 - Capitulo 9 - Colocando em prática o que você sabe

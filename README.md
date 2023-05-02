@@ -1,5 +1,7 @@
 # Anotações e Testes do Livro "Python para Data Science Para Leigos"
-![Capa do livro](https://m.media-amazon.com/images/I/51kc6jj9EjL._SX352_BO1,204,203,200_.jpg)
+<div style="text-align:center">
+    ![Capa do livro](https://m.media-amazon.com/images/I/51kc6jj9EjL._SX352_BO1,204,203,200_.jpg)
+</div>
 
 Este repositório contém minhas anotações e testes relacionados ao livro "Python para Data Science Para Leigos". O objetivo é registrar meu aprendizado e fornecer exemplos úteis para futuras referências.
 

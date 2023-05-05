@@ -10,7 +10,7 @@ O conteúdo deste repositório é organizado em pastas de acordo com os capítul
 
 - Capitulos de 1 à 5 não serão conteplados neste repositório por se tratar de conteúdos introdutórios e sobre instalação de programas.
 - [Capítulo 6](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo6/Capitulo6.ipynb) - Trabalhando com dados reais
-- Capitulo 7 - Condicionando os dados
+- [Capitulo 7](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo7/Capitulo7.ipynb) - Condicionando os dados
 - Capitulo 8 - Modelando dados
 - Capitulo 9 - Colocando em prática o que você sabe
 - Capitulo 10 - Fazendo um curso intensivo de MatPlotLib

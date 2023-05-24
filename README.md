@@ -12,7 +12,7 @@ O conteúdo deste repositório é organizado em pastas de acordo com os capítul
 - [Capítulo 6](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo6/Capitulo6.ipynb) - Trabalhando com dados reais
 - [Capitulo 7](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo7/Capitulo7.ipynb) - Condicionando os dados
 - [Capitulo 8](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo8/capitulo8.ipynb) - Modelando dados
-- Capitulo 9 - Colocando em prática o que você sabe
+- [Capitulo 9](https://github.com/gustavogdavel/Python_DataScience/blob/main/capitulo9/capitulo9.ipynb) - Colocando em prática o que você sabe
 - Capitulo 10 - Fazendo um curso intensivo de MatPlotLib
 - Capitulo 11 - Visualizando os dados
 - Capitulo 12 - Ampliando as capacidades do Python
